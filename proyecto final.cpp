@@ -69,7 +69,7 @@ void menu()
 		}
 	}
 }
-
+asdfghjklñ
 main()
 {
 	menu();
